@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics, isSupported } from "firebase/analytics";
 import { getFirestore } from "firebase/firestore";
 
-// Your web app's Firebase configuration
+// web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyAr3GCjErgB3V0UIAkDLgn45gDPcPH8HXY",
   authDomain: "inventory-management-ac26d.firebaseapp.com",

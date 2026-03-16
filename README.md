@@ -30,8 +30,8 @@ The application combines a responsive frontend experience with backend-driven in
 - **Frontend:** React / Next.js
 - **Backend:** Node.js
 - **Styling:** CSS
-- **Additional Services / Integrations:** Firebase (if applicable)
-- **Deployment:** Vercel / local Node environment
+- **Additional Services / Integrations:** Firebase 
+- **Deployment:** Vercel 
 
 ## Architecture Summary
 
